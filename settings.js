@@ -2,7 +2,7 @@ global.bankname = "OPAY"
 
 global.banknumber = "7058529067"
 
-global.bankowner = "SHADRACK JOSEPH 
+global.bankowner = "SHADRACK JOSEPH"
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
